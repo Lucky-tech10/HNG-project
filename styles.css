@@ -34,10 +34,6 @@ main {
   gap: 20px;
 }
 
-.profile img {
-  border-radius: 5px;
-}
-
 .profile h2,
 .profile p {
   margin: 0.5em 0;
